@@ -5,8 +5,8 @@ title: Science
 nav_order: 1
 ---
 
-## Welcome to another page 2
+## I really enjoy science! Explore some of my research projects below.
 
-_yay_
+* * * 
 
-[back](./)
+
