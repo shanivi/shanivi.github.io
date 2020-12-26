@@ -44,9 +44,25 @@ Impossible: An Introduction to the Psychology and Neuroscience of Seeing."
 
 For my project, I conducted research virtually based on a perception-centered survey experiment and wrote a paper based on my findings. This research allowed me to acquire skills to more effectively conduct literature searches and write papers for journal submission, as well as how to synthesize researched sources into my own paper and cite them.
 
-![Pioneer Pic](/images/pioneerpict.jpg)
+![Pioneer Pic](/images/piopic.jpg)
 
 * * *
 * * *
 
+### Genetics of _C. elegans_ in Relation to Behavioral Expression
+
+**August 2018 to January 2019**
+
+> Dallas Regional Science and Engineering Fair, Dallas, Texas
+>
+> Cell and Molecular Biology Division
+
+For this project, I explored the effects of bli-1 gene silencing through RNAi via feeding on the locomotion of _C. elegans_, ultimately to determine the impact of the produced blistered phenotype on organism behavior. I was mentored by a professor in the biology department at Texas Woman's University for this project.
+
+This project [awarded](https://www.sivb.org/InVitroReport/issue-53-3-july-september-2019/isef-high-school-student-awards-2/) Outstanding Achievement in In Vitro Biology from the Society for In Vitro Biology, and Honorable Mention in the Cell and Molecular Biology category. 
+
+![C Elegans](/images/elegans.jpg)
+
+* * *
+* * *
 
