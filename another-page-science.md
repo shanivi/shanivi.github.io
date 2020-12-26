@@ -9,9 +9,10 @@ nav_order: 1
 
 * * * 
 * * *
+* * *
 
 ### Role of Poly-ADP(Ribose) Polymerase-1 in Trophoblast Differentiation
-**UT Southwestern Medican Center, Dallas, Texas**
+**UT Southwestern Medical Center, Dallas, Texas; Summer 2019**
 
 **Kraus Lab, Green Center for Reproductive Biology Sciences**
 
@@ -19,5 +20,8 @@ For this project, a cell culture model of placental trophoblast differentiation 
 
 
 ![STARS Poster Pic](/images/IMG_20190726_190142.jpg)
+
+* * *
+* * *
 
 
