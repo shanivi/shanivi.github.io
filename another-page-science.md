@@ -44,7 +44,7 @@ Impossible: An Introduction to the Psychology and Neuroscience of Seeing."
 
 For my project, I conducted research virtually based on a perception-centered survey experiment and wrote a paper based on my findings. This research allowed me to acquire skills to more effectively conduct literature searches and write papers for journal submission, as well as how to synthesize researched sources into my own paper and cite them.
 
-![Pioneer Pic](/images/pioneerpic.jpg)
+![Pioneer Pic](/images/pioneerpict.jpg)
 
 * * *
 * * *
