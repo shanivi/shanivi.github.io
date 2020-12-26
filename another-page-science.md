@@ -59,7 +59,7 @@ For my project, I conducted research virtually based on a perception-centered su
 
 For this project, I explored the effects of bli-1 gene silencing through RNAi via feeding on the locomotion of _C. elegans_, ultimately to determine the impact of the produced blistered phenotype on organism behavior. I was mentored by a professor in the biology department at Texas Woman's University for this project.
 
-This project [awarded](https://www.sivb.org/InVitroReport/issue-53-3-july-september-2019/isef-high-school-student-awards-2/) Outstanding Achievement in In Vitro Biology from the Society for In Vitro Biology, and Honorable Mention in the Cell and Molecular Biology category. 
+This project was [awarded](https://www.sivb.org/InVitroReport/issue-53-3-july-september-2019/isef-high-school-student-awards-2/) Outstanding Achievement in In Vitro Biology from the Society for In Vitro Biology, and Honorable Mention in the Cell and Molecular Biology division. 
 
 ![C Elegans](/images/elegans.jpg)
 
